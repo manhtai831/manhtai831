@@ -66,10 +66,8 @@ Chào mừng bạn đến với góc nhỏ trên GitHub của tôi. Một nơi c
 
 Nếu bạn muốn bàn về các giải pháp Docker thần thánh, muốn tối ưu hóa những câu truy vấn SQL siêu khủng, hoặc đơn giản là muốn học cách reload Nginx khi không còn file config, hãy liên hệ tôi qua:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email_cua_ban@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ten_cua_ban)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ten_cua_ban)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ten_cua_ban)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manhtai831@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/manh.tai.336)
 
 _Rất vui được kết nối và cùng nhau tạo ra thêm nhiều bug mới!_ 😉
 <!--
