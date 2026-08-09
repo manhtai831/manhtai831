@@ -70,6 +70,24 @@ Nếu bạn muốn bàn về các giải pháp Docker thần thánh, muốn tố
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/manh.tai.336)
 
 _Rất vui được kết nối và cùng nhau tạo ra thêm nhiều bug mới!_ 😉
+
+## 🌐 Live Projects & Portfolio
+
+| Dự án / Trang web | Công nghệ & Mô tả | Link trải nghiệm |
+| :--- | :--- | :--- |
+| 🎬 **Video Tool Online** | Tool xử lý video: Tách nhạc, nối/ghép video, tải video YouTube | [👉 video.77.io.vn](https://video.77.io.vn) |
+| 📍 **GPS Tracking App** | Ứng dụng theo dõi và giám sát vị trí theo thời gian thực | [👉 gps-tracking-s2.77.io.vn](https://gps-tracking-s2.77.io.vn) |
+| 👨‍💻 **Resume / Portfolio** | Trang hồ sơ cá nhân, kinh nghiệm làm việc & kỹ năng | [👉 me.77.io.vn](https://me.77.io.vn) |
+| 📝 **Personal Blog** | Nơi chia sẻ kiến thức, bài viết kỹ thuật & đời sống | [👉 blog.77.io.vn](https://blog.77.io.vn) |
+
+---
+
+### 🚀 Quick Links
+
+[![Video Tools](https://img.shields.io/badge/Video_Tools-Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://video.77.io.vn)
+[![GPS Tracking](https://img.shields.io/badge/GPS_Tracking-Live_Demo-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](https://gps-tracking-s2.77.io.vn)
+[![Resume](https://img.shields.io/badge/Resume-Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://me.77.io.vn)
+[![Blog](https://img.shields.io/badge/Blog-Articles-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.77.io.vn)
 <!--
 **manhtai831/manhtai831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
